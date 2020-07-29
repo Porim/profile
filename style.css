@@ -73,7 +73,7 @@ p {
   font-family: "Font Awesome 5 Brands";
 }
 
-a:hover {
+a i:hover {
   color: orange;
 }
 
